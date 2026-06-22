@@ -38,7 +38,7 @@
 <!--                  SOCIAL LINKS                         -->
 <!-- ═══════════════════════════════════════════════════════ -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phillmona--dev-e8533a?style=for-the-badge&labelColor=0d0d0d)](https://phillmona-dev.github.io/my_portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-phillmona--dev-e8533a?style=for-the-badge&labelColor=0d0d0d)](https://my-portfolio-jk3j.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/filmon-kiros-a799252b0/)
 [![Email](https://img.shields.io/badge/Email-phillipos1212@gmail.com-e8533a?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:phillipos1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-phillmona--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/phillmona-dev)
@@ -319,7 +319,7 @@ Advanced claims management system featuring automated claim processing pipelines
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-e8533a?style=for-the-badge&labelColor=0d0d0d)](https://phillmona-dev.github.io/my_portfolio/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-e8533a?style=for-the-badge&labelColor=0d0d0d)](https://my-portfolio-jk3j.onrender.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Filmon_Kiros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0d0d)](https://www.linkedin.com/in/filmon-kiros-a799252b0/)
 [![Gmail](https://img.shields.io/badge/Gmail-phillipos1212@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0d0d)](mailto:phillipos1212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@phillmona--dev-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/phillmona-dev)
